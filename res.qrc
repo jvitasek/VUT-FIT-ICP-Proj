@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg.jpg</file>
+        <file>treasure1.png</file>
+        <file>treasure2.png</file>
+        <file>treasure3.png</file>
+        <file>treasure4.png</file>
+        <file>stonelb.jpg</file>
+        <file>stonelt.jpg</file>
+        <file>stonerb.jpg</file>
+        <file>stonert.jpg</file>
+        <file>stonetb.jpg</file>
+        <file>Tstonelrb.jpg</file>
+        <file>Tstonelrt.jpg</file>
+        <file>Tstonetbl.jpg</file>
+        <file>stonelr.jpg</file>
+        <file>Tstonetbr.jpg</file>
+        <file>bg2.png</file>
+        <file>player1.png</file>
+        <file>player2.png</file>
+        <file>player3.png</file>
+        <file>player4.png</file>
+        <file>help.png</file>
+    </qresource>
+</RCC>
